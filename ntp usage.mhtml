@@ -1,0 +1,2090 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///E:/git/ddos-dos-tools/ntp-desc.html
+Subject: =?utf-8?Q?=E5=A6=82=E4=BD=95=E5=8F=91=E7=8E=B0=20NTP=20=E6=94=BE=E5=A4=A7?=
+ =?utf-8?Q?=E6=94=BB=E5=87=BB=E6=BC=8F=E6=B4=9E=20-=20=E5=BF=83=E4=BC=A4?=
+ =?utf-8?Q?=E7=9A=84=E8=83=96=E5=AD=90?=
+Date: Fri, 10 Jan 2020 10:07:53 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064----"
+
+
+------MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064----
+Content-Type: text/html
+Content-ID: <frame-F24FB6671A6A4837130CEC6CD4A223FD@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///E:/git/ddos-dos-tools/ntp-desc.html
+
+<!-- saved from url=3D(0132)https://wooyun.js.org/drops/%E5%A6%82%E4%BD%95%=
+E5%8F%91%E7%8E%B0%20NTP%20%E6%94%BE%E5%A4%A7%E6%94%BB%E5%87%BB%E6%BC%8F%E6%=
+B4%9E.html --><html><head><meta http-equiv=3D"Content-Type" content=3D"text=
+/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"=
+cid:css-b58f027b-c90f-4694-be58-7e0a40004878@mhtml.blink" /><link rel=3D"st=
+ylesheet" type=3D"text/css" href=3D"cid:css-ba7c2fb8-57c3-4505-8eb9-4a6489a=
+24bb5@mhtml.blink" />
+			     <title>=E5=A6=82=E4=BD=95=E5=8F=91=E7=8E=B0 NTP =E6=94=BE=E5=A4=A7=
+=E6=94=BB=E5=87=BB=E6=BC=8F=E6=B4=9E - =E5=BF=83=E4=BC=A4=E7=9A=84=E8=83=96=
+=E5=AD=90</title>
+				=20
+			<link rel=3D"stylesheet" type=3D"text/css" href=3D"file:///E:/git/ddos-d=
+os-tools/ntp-desc_files/stylesheet.css" media=3D"screen"><link rel=3D"style=
+sheet" type=3D"text/css" href=3D"file:///E:/git/ddos-dos-tools/ntp-desc_fil=
+es/github-dark.css" media=3D"screen"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"file:///E:/git/ddos-dos-tools/ntp-desc_files/print.css" media=
+=3D"print"></head>
+			<body>
+				<h1>=E5=8E=9F=E6=96=87=E5=9C=B0=E5=9D=80:<a href=3D"http://drops.wooyun=
+.org/tips/4715">http://drops.wooyun.org/tips/4715</a></h1>
+			=09
+      <p>
+        </p><p>=E5=8E=9F=E6=96=87=EF=BC=9A<a href=3D"http://jamesdotcom.com=
+/?p=3D578">http://jamesdotcom.com/?p=3D578</a></p>
+
+<p>NTP =E6=BC=8F=E6=B4=9E=E7=9B=B8=E5=85=B3=E7=9A=84=E6=96=87=E7=AB=A0=E5=
+=9C=A8 Drops =E5=B7=B2=E7=BB=8F=E6=9C=89=E8=BF=87=E4=BA=86=EF=BC=8C=E5=B9=
+=B6=E4=B8=94=E4=B8=8D=E6=AD=A2=E4=B8=80=E7=AF=87=EF=BC=8C=E4=B9=8B=E6=89=80=
+=E4=BB=A5=E5=8F=88=E7=BF=BB=E8=AF=91=E4=BA=86=E8=BF=99=E4=B8=80=E7=89=87=E6=
+=96=87=E7=AB=A0=EF=BC=8C=E6=98=AF=E8=A7=89=E5=BE=97=E6=96=87=E7=AB=A0=E7=9A=
+=84=E6=95=B4=E4=BD=93=E6=80=9D=E8=B7=AF=E5=BE=88=E4=B8=8D=E9=94=99=EF=BC=8C=
+=E5=B8=8C=E6=9C=9B=E5=AF=B9=E7=9C=8B=E8=BF=99=E7=AF=87=E6=96=87=E7=AB=A0=E7=
+=9A=84=E4=BD=A0=E6=9C=89=E6=89=80=E5=B8=AE=E5=8A=A9=E3=80=82</p>
+
+<p>BTW=EF=BC=9A=E6=9C=AC=E6=96=87=E7=BF=BB=E8=AF=91=E6=AF=94=E8=BE=83=E9=9A=
+=8F=E6=84=8F=EF=BC=8C=E4=BD=86=E6=98=AF=E5=B9=B6=E6=B2=A1=E6=9C=89=E7=A0=B4=
+=E5=9D=8F=E5=8E=9F=E6=96=87=E5=90=AB=E4=B9=89=E3=80=82</p>
+
+<h2>0x00 =E7=AE=80=E4=BB=8B</h2>
+
+<hr>
+
+<p>NTP =E6=94=BE=E5=A4=A7=E6=94=BB=E5=87=BB=E5=85=B6=E5=AE=9E=E5=B0=B1=E6=
+=98=AF DDoS =E7=9A=84=E4=B8=80=E7=A7=8D=E3=80=82=E9=80=9A=E8=BF=87 NTP =E6=
+=9C=8D=E5=8A=A1=E5=99=A8=EF=BC=8C=E5=8F=AF=E4=BB=A5=E6=8A=8A=E5=BE=88=E5=B0=
+=8F=E7=9A=84=E8=AF=B7=E6=B1=82=E5=8F=98=E6=88=90=E5=BE=88=E5=A4=A7=E7=9A=84=
+=E5=93=8D=E5=BA=94=EF=BC=8C=E8=BF=99=E4=BA=9B=E5=93=8D=E5=BA=94=E5=8F=AF=E4=
+=BB=A5=E7=9B=B4=E6=8E=A5=E6=8C=87=E5=90=91=E5=88=B0=E5=8F=97=E5=AE=B3=E8=80=
+=85=E7=9A=84=E7=94=B5=E8=84=91=E3=80=82</p>
+
+<!--more-->
+
+<p>NTP =E6=94=BE=E5=A4=A7=E4=BD=BF=E7=94=A8=E7=9A=84=E6=98=AF MONLIST =E5=
+=91=BD=E4=BB=A4=E3=80=82MONLIST =E5=91=BD=E4=BB=A4=E4=BC=9A=E8=AE=A9 NTP =
+=E6=9C=8D=E5=8A=A1=E5=99=A8=E8=BF=94=E5=9B=9E=E4=BD=BF=E7=94=A8 NTP =E6=9C=
+=8D=E5=8A=A1=E7=9A=84=E6=9C=80=E5=90=8E 600 =E4=B8=AA =E5=AE=A2=E6=88=B7=E7=
+=AB=AF IP=E3=80=82=E9=80=9A=E8=BF=87=E4=B8=80=E4=B8=AA=E6=9C=89=E4=BC=AA=E9=
+=80=A0=E6=BA=90=E5=9C=B0=E5=9D=80=E7=9A=84 NTP =E8=AF=B7=E6=B1=82=EF=BC=8CN=
+TP =E6=9C=8D=E5=8A=A1=E5=99=A8=E4=BC=9A=E5=B0=86=E5=93=8D=E5=BA=94=E8=BF=94=
+=E5=9B=9E=E7=BB=99=E9=82=A3=E4=B8=AA=E4=BC=AA=E9=80=A0=E7=9A=84 IP =E5=9C=
+=B0=E5=9D=80=E3=80=82=E4=BD=A0=E5=8F=AF=E4=BB=A5=E6=83=B3=E8=B1=A1=EF=BC=8C=
+=E5=A6=82=E6=9E=9C=E6=88=91=E4=BB=AC=E4=BC=AA=E9=80=A0=E5=8F=97=E5=AE=B3=E8=
+=80=85=E7=9A=84 IP =E5=AF=B9=E5=A4=A7=E9=87=8F=E7=9A=84 NTP =E6=9C=8D=E5=8A=
+=A1=E5=99=A8=E5=8F=91=E9=80=81 MONLIST =E8=AF=B7=E6=B1=82=EF=BC=8C=E8=BF=99=
+=E5=B0=86=E5=BD=A2=E6=88=90 DOS =E6=94=BB=E5=87=BB=E3=80=82</p>
+
+<p>=E6=98=BE=E7=84=B6=E6=88=91=E4=BB=AC=E4=B8=8D=E8=83=BD=E5=AE=B9=E5=BF=8D=
+=E8=BF=99=E6=A0=B7=E5=81=9A=EF=BC=8C=E4=BD=86=E6=88=91=E6=AF=94=E8=BE=83=E6=
+=9C=89=E5=85=B4=E8=B6=A3=E7=9A=84=E6=98=AF=E5=8E=BB=E5=8F=91=E7=8E=B0=E6=9C=
+=89=E5=A4=9A=E5=B0=91 NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E8=83=BD=E5=A4=9F=E5=
+=8F=91=E5=A4=A7=E8=BF=99=E7=A7=8D=E6=95=B0=E6=8D=AE=E3=80=82=E4=BB=96=E4=B8=
+=8D=E6=98=AF=E4=BB=80=E4=B9=88=E6=96=B0=E7=9A=84=E6=94=BB=E5=87=BB=EF=BC=8C=
+=E6=89=80=E4=BB=A5=E4=BD=A0=E5=B8=8C=E6=9C=9B=E4=B8=8D=E4=BC=9A=E6=9C=89=E5=
+=A4=AA=E5=A4=9A=E7=9A=84 NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E6=94=AF=E6=8C=81 =
+MONLIST =E5=91=BD=E4=BB=A4=E3=80=82</p>
+
+<h2>0x01 =E5=A6=82=E4=BD=95=E5=8E=BB=E5=81=9A</h2>
+
+<hr>
+
+<p>=E4=B8=BA=E4=BA=86=E7=A1=AE=E5=AE=9A=E6=9C=89=E5=A4=9A=E5=B0=91 NTP =E6=
+=9C=8D=E5=8A=A1=E5=99=A8=E5=93=8D=E5=BA=94 MONLIST =E8=AF=B7=E6=B1=82=EF=BC=
+=8C=E6=88=91=E4=BC=9A=E9=80=9A=E8=BF=87=E4=B8=A4=E4=B8=AA=E7=8B=AC=E7=AB=8B=
+=E7=9A=84=E9=83=A8=E5=88=86=E5=8E=BB=E5=81=9A=E3=80=82</p>
+
+<h3>=E7=AC=AC=E4=B8=80=E9=83=A8=E5=88=86</h3>
+
+<p>=E5=9C=A8=E7=AC=AC=E4=B8=80=E9=83=A8=E5=88=86=EF=BC=8C=E9=80=9A=E8=BF=87=
+ masscan =E5=B7=A5=E5=85=B7=EF=BC=8C=E5=AF=B9 UDP =E7=9A=84 123 =E7=AB=AF=
+=E5=8F=A3=E8=BF=9B=E8=A1=8C=E6=89=AB=E6=8F=8F=EF=BC=8C=E6=89=AB=E6=8F=8F=E7=
+=BB=93=E6=9E=9C=E4=BF=9D=E5=AD=98=E5=88=B0 ntp.xml =E6=96=87=E4=BB=B6=E4=B8=
+=AD=EF=BC=8C=E5=91=BD=E4=BB=A4=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+
+<pre><code>./masscan -pU:123 -oX ntp.xml --rate 160000 101.0.0.0-120.0.0.0
+</code></pre>
+
+<p>=E7=94=B1=E4=BA=8E=E6=88=91=E7=9A=84=E6=9C=8D=E5=8A=A1=E5=99=A8=E5=B8=A6=
+=E5=AE=BD=E6=AF=94=E8=BE=83=E5=B0=8F=EF=BC=8C=E5=A6=82=E6=9E=9C=E9=80=89=E6=
+=8B=A9=E5=85=A8=E7=BD=91=E6=89=AB=E6=8F=8F=EF=BC=8C=E8=82=AF=E5=AE=9A=E4=BC=
+=9A=E8=BE=83=E6=85=A2=EF=BC=8C=E6=89=80=E4=BB=A5=E6=88=91=E9=9A=8F=E6=9C=BA=
+=E7=9A=84=E9=80=89=E6=8B=A9=E4=BA=86=E4=B8=80=E4=B8=AA IP =E6=AE=B5=EF=BC=
+=9A101.0.0.0-120.0.0.0=E3=80=82</p>
+
+<p>=E6=89=AB=E6=8F=8F=E5=AE=8C=E6=88=90=E5=90=8E=EF=BC=8C=E4=BC=9A=E6=8A=8A=
+ UDP 123 =E7=AB=AF=E5=8F=A3=E5=BC=80=E6=94=BE=E7=9A=84=E8=AE=BE=E5=A4=87=E4=
+=BF=9D=E5=AD=98=E5=9C=A8 XML =E6=96=87=E4=BB=B6=E4=B8=AD=E3=80=82=E4=B8=8D=
+=E7=9F=A5=E9=81=93=E4=BB=80=E4=B9=88=E5=8E=9F=E5=9B=A0=EF=BC=8C=E6=88=91=E7=
+=9A=84=E6=89=AB=E6=8F=8F=E7=BB=93=E6=9E=9C xml =E6=96=87=E4=BB=B6=E4=B8=AD=
+=E5=8C=85=E5=90=AB=E4=BA=86=E8=AE=B8=E5=A4=9A=E9=87=8D=E5=A4=8D=E7=9A=84=E8=
+=AE=B0=E5=BD=95=EF=BC=8C=E6=88=91=E5=86=99=E4=BA=86=E4=B8=80=E4=B8=AA pytho=
+n =E8=84=9A=E6=9C=AC=E7=94=A8=E4=BA=8E=E5=A4=84=E7=90=86=E8=BF=99=E4=BA=9B=
+=E9=87=8D=E5=A4=8D=E7=9A=84=E8=AE=B0=E5=BD=95=EF=BC=8C=E5=8E=BB=E9=87=8D=E5=
+=90=8E=E7=9A=84=E7=BB=93=E6=9E=9C=E4=BC=9A=E4=BF=9D=E5=AD=98=E5=88=B0 port1=
+23.txt =E6=96=87=E4=BB=B6=E4=B8=AD=E3=80=82</p>
+
+<p>=E4=BB=A3=E7=A0=81=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+
+<pre><code>from lxml import etree
+port =3D None
+address =3D None
+parsedServers =3D []
+#Opens the file used to store single enteries.
+outputFile =3D open('port123.txt', 'a')
+#Iterates through the masscan XML file.
+for event, element in etree.iterparse('ntp.xml', tag=3D"host"):
+    for child in element:
+        if child.tag =3D=3D 'address':
+            #Assigns the current iterations address to the address variable=
+.
+            address =3D child.attrib['addr']
+        if child.tag =3D=3D 'ports':
+            for a in child:
+                #Assigns the current iterations port to the port variable.
+                port =3D a.attrib['portid']
+        #is both port and IP address are present.
+        if port &gt; 1 and address &gt; 1:
+            #If the IP hasnt yet been added to the output file.
+            if address not in parsedServers:
+                print address
+                #Write the IP address to the file.
+                outputFile.write(address + '\n')
+                #write the IP to the parsedServers list
+                parsedServers.append(address)
+            port =3D None
+            address =3D None
+    element.clear()
+outputFile.close()
+print 'End'
+</code></pre>
+
+<p>=E8=BF=99=E4=B8=AA=E8=84=9A=E6=9C=AC=E8=BF=90=E8=A1=8C=E5=90=8E=EF=BC=8C=
+port123.txt =E6=96=87=E4=BB=B6=E4=B8=AD=E5=8C=85=E5=90=AB=E5=BC=80=E6=94=BE=
+ UDP 123 =E7=AB=AF=E5=8F=A3=E5=B9=B6=E4=B8=94=E5=8E=BB=E9=87=8D=E5=90=8E=E7=
+=9A=84=E6=89=80=E6=9C=89 IP=E3=80=82</p>
+
+<h3>=E7=AC=AC=E4=BA=8C=E9=83=A8=E5=88=86</h3>
+
+<p>=E5=9C=A8=E7=AC=AC=E4=BA=8C=E9=83=A8=E5=88=86=E4=B8=AD=E6=88=91=E4=BB=AC=
+=E4=B8=BB=E8=A6=81=E6=9D=A5=E7=A1=AE=E5=AE=9A port123.txt =E4=B8=AD=E7=9A=
+=84 IP =E7=9A=84 123 =E7=AB=AF=E5=8F=A3=E6=98=AF=E5=90=A6=E8=BF=90=E8=A1=8C=
+ NTP =E6=9C=8D=E5=8A=A1=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=98=AF NTP =E6=9C=8D=
+=E5=8A=A1=EF=BC=8C=E6=98=AF=E5=90=A6=E5=93=8D=E5=BA=94 MONLIST =E8=AF=B7=E6=
+=B1=82=E3=80=82</p>
+
+<p>=E6=88=91=E5=86=99=E4=BA=86=E4=B8=80=E4=B8=AA python =E8=84=9A=E6=9C=AC=
+=E6=9D=A5=E5=AE=9E=E7=8E=B0=E4=B8=8A=E9=9D=A2=E7=9A=84=E9=9C=80=E6=B1=82=EF=
+=BC=8C=E4=B8=BB=E8=A6=81=E7=94=A8=E5=88=B0 scapy =E5=BA=93=E3=80=82</p>
+
+<p>=E9=A6=96=E5=85=88=E6=88=91=E5=AF=BC=E5=85=A5=E6=88=91=E8=84=9A=E6=9C=AC=
+=E9=9C=80=E8=A6=81=E7=9A=84=E6=89=80=E6=9C=89=E5=BA=93=EF=BC=8C=E5=B9=B6=E4=
+=B8=94=E5=AE=9A=E4=B9=89=E4=B8=80=E4=BA=9B=E5=8F=98=E9=87=8F=EF=BC=9A</p>
+
+<pre><code>from scapy.all import *
+import thread
+</code></pre>
+
+<p>=E7=84=B6=E5=90=8E=E6=88=91=E6=9E=84=E9=80=A0=E4=BA=86=E5=8F=91=E7=BB=99=
+ NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E7=9A=84 MONLIST =E8=AF=B7=E6=B1=82=E7=9A=
+=84=E5=8E=9F=E5=A7=8B=E6=95=B0=E6=8D=AE=E3=80=82=E5=9C=A8=E8=BF=99=E4=B8=AA=
+=E8=BF=87=E7=A8=8B=E4=B8=AD=E6=88=91=E5=8F=91=E7=8E=B0=E8=AF=B7=E6=B1=82=E7=
+=9A=84=E6=95=B0=E6=8D=AE=E5=BF=85=E9=A1=BB=E8=BE=BE=E5=88=B0=E4=B8=80=E5=AE=
+=9A=E7=9A=84=E5=80=BC=E6=9C=8D=E5=8A=A1=E5=99=A8=E6=89=8D=E4=BC=9A=E8=BF=94=
+=E5=9B=9E=E6=95=B0=E6=8D=AE=EF=BC=8C=E5=85=B7=E4=BD=93=E5=8E=9F=E5=9B=A0=E4=
+=B8=8D=E6=B8=85=E6=A5=9A=E3=80=82=E5=8F=AA=E8=A6=81=E8=AF=B7=E6=B1=82=E8=B6=
+=85=E8=BF=87 60 =E5=AD=97=E8=8A=82=EF=BC=8C=E6=9C=8D=E5=8A=A1=E5=99=A8=E5=
+=B0=B1=E4=BC=9A=E8=BF=94=E5=9B=9E=E6=95=B0=E6=8D=AE=EF=BC=8C=E5=9B=A0=E6=AD=
+=A4=E6=88=91=E4=B8=8B=E9=9D=A2=E7=9A=84=E4=BB=A3=E7=A0=81=E4=B8=AD=E6=9C=89=
+ 61 =E4=B8=AA<code>\x00</code> =E5=AD=97=E7=AC=A6=E3=80=82</p>
+
+<pre><code>rawData =3D "\x17\x00\x03\x2a" + "\x00" * 61
+</code></pre>
+
+<p>=E5=9C=A8 python =E8=84=9A=E6=9C=AC=E4=B8=AD=E6=88=91=E6=89=93=E5=BC=80=
+=E4=BA=86=E4=B8=A4=E4=B8=AA=E6=96=87=E4=BB=B6=EF=BC=9Aport123.txt =E6=98=AF=
+ masscan =E5=8F=91=E7=8E=B0=E7=9A=84=E5=BC=80=E6=94=BE UDP 123 =E7=AB=AF=E5=
+=8F=A3=E7=9A=84 IP =E5=9C=B0=E5=9D=80=EF=BC=8CmonlistServers.txt =E6=98=AF=
+=E7=94=A8=E4=BA=8E=E4=BF=9D=E5=AD=98=E6=94=AF=E6=8C=81 MONLIST =E5=91=BD=E4=
+=BB=A4=E7=9A=84 NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E3=80=82</p>
+
+<pre><code>logfile =3D open('port123.txt', 'r')
+outputFile =3D open('monlistServers.txt', 'a')
+</code></pre>
+
+<p>=E7=84=B6=E5=90=8E=E6=88=91=E5=AE=9A=E4=B9=89=E4=BA=86=E4=B8=80=E4=B8=AA=
+=E5=8F=AB <code>sniffer</code> =E7=9A=84=E5=87=BD=E6=95=B0=EF=BC=8C=E8=BF=
+=99=E4=B8=AA=E5=87=BD=E6=95=B0=E7=9A=84=E4=BD=9C=E7=94=A8=E4=B8=BB=E8=A6=81=
+=E5=B0=B1=E6=98=AF=E7=9B=91=E5=90=AC=E5=9C=A8 48769 =E7=AB=AF=E5=8F=A3=E4=
+=B8=8A=E7=9A=84 UDP =E6=95=B0=E6=8D=AE=EF=BC=8C=E8=BF=99=E4=B8=AA=E7=AB=AF=
+=E5=8F=A3=E6=98=AF=E5=8F=91=E9=80=81 MONLIST =E8=AF=B7=E6=B1=82=E7=9A=84=E6=
+=BA=90=E7=AB=AF=E5=8F=A3=EF=BC=8C=E5=8F=AA=E8=A6=81=E4=BB=BB=E4=BD=95 NTP =
+=E6=9C=8D=E5=8A=A1=E5=99=A8=E5=93=8D=E5=BA=94 MONLIST =E8=AF=B7=E6=B1=82=EF=
+=BC=8C=E9=83=BD=E5=B0=86=E5=93=8D=E5=BA=94=E5=88=B0=E8=BF=99=E4=B8=AA=E7=AB=
+=AF=E5=8F=A3=E4=B8=8A=E3=80=82=E7=9B=AE=E6=A0=87=E7=BD=91=E7=BB=9C=E5=9C=B0=
+=E5=9D=80=E6=98=AF=E4=BD=A0=E7=9A=84 IP =E5=9C=B0=E5=9D=80=EF=BC=8CNTP =E6=
+=9C=8D=E5=8A=A1=E5=99=A8=E7=9A=84=E5=93=8D=E5=BA=94=E5=B0=86=E8=BF=94=E5=9B=
+=9E=E5=88=B0=E8=BF=99=E4=B8=AA IP =E4=B8=8A=EF=BC=8C=E5=9C=A8=E6=9C=AC=E6=
+=96=87=E4=B8=AD=EF=BC=8C=E6=88=91=E8=AE=B2=E8=AE=BE=E7=BD=AE=E8=BF=99=E4=B8=
+=AA IP =E4=B8=BA=EF=BC=9A99.99.99.99=E3=80=82</p>
+
+<pre><code>def sniffer():
+    sniffedPacket =3D sniff(filter=3D"udp port 48769 and dst net 99.99.99.9=
+9", store=3D0, prn=3Danalyser)
+</code></pre>
+
+<p>=E4=BB=BB=E4=BD=95=E7=AC=A6=E5=90=88 UDP =E7=AB=AF=E5=8F=A3 48769 =E7=9A=
+=84=E6=95=B0=E6=8D=AE=E5=8C=85=E9=83=BD=E4=BC=9A=E8=A2=AB=E6=8D=95=E8=8E=B7=
+=E5=88=B0=EF=BC=8C=E5=B9=B6=E4=B8=94=E4=BC=9A=E6=94=BE=E5=88=B0 analyser =
+=E5=87=BD=E6=95=B0=E4=B8=AD=EF=BC=8C=E7=A8=8D=E5=90=8E=E6=88=91=E8=AE=B2=E4=
+=BB=8B=E7=BB=8D analyser =E5=87=BD=E6=95=B0=E3=80=82</p>
+
+<p>sniffer =E5=AE=9A=E4=B9=89=E5=A5=BD=E4=BA=86=EF=BC=8C=E5=B9=B6=E4=B8=94=
+=E4=BC=9A=E5=9C=A8=E7=BA=BF=E7=A8=8B=E4=B8=AD=E6=89=A7=E8=A1=8C=EF=BC=8C=E5=
+=90=8C=E6=97=B6=E4=BC=9A=E6=94=BE=E5=88=B0=E5=90=8E=E5=8F=B0=E8=BF=90=E8=A1=
+=8C=E3=80=82</p>
+
+<pre><code>thread.start_new_thread(sniffer, ())
+</code></pre>
+
+<p>=E6=8E=A5=E4=B8=8B=E6=9D=A5=EF=BC=8C=E6=88=91=E9=81=8D=E5=8E=86 masscan =
+=E5=8F=91=E7=8E=B0=E7=9A=84=E6=89=80=E6=9C=89 IP =E5=9C=B0=E5=9D=80=E3=80=
+=82=E5=AF=B9=E4=BA=8E=E6=AF=8F=E4=B8=AA IP =E5=9C=B0=E5=9D=80=E6=88=91=E9=
+=83=BD=E4=BC=9A=E5=8F=91=E9=80=81=E4=B8=80=E4=B8=AA=E6=BA=90=E7=AB=AF=E5=8F=
+=A3=E4=B8=BA 48769=EF=BC=8C=E7=9B=AE=E7=9A=84=E7=AB=AF=E5=8F=A3=E6=98=AF 12=
+3 =E7=9A=84 UDP =E6=95=B0=E6=8D=AE=E5=8C=85=EF=BC=8C=E6=95=B0=E6=8D=AE=E5=
+=8C=85=E5=B0=B1=E6=98=AF=E6=88=91=E4=BB=AC=E5=89=8D=E9=9D=A2=E6=9E=84=E9=80=
+=A0=E7=9A=84 rawData=E3=80=82=E5=AE=9E=E9=99=85=E4=B8=8A=E8=BF=99=E4=B8=AA=
+=E5=B0=B1=E6=98=AF=E5=AF=B9=E6=89=80=E6=9C=89=E7=9A=84 IP =E5=8F=91=E9=80=
+=81 MONLIST =E8=AF=B7=E6=B1=82=E3=80=82</p>
+
+<pre><code>for address in logfile:
+    send(IP(dst=3Daddress)/UDP(sport=3D48769, dport=3D123)/Raw(load=3DrawDa=
+ta))
+</code></pre>
+
+<p>=E5=8F=AA=E8=A6=81=E6=9C=89 NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E5=93=8D=E5=
+=BA=94 MONLIST =E8=AF=B7=E6=B1=82=EF=BC=8C=E8=BF=99=E4=B8=AA=E5=93=8D=E5=BA=
+=94=E6=95=B0=E6=8D=AE=E5=B0=86=E4=BC=9A=E8=A2=AB=E8=BF=90=E8=A1=8C=E5=9C=A8=
+=E7=BA=BF=E7=A8=8B=E4=B8=AD sniffer =E6=8A=93=E5=8F=96=EF=BC=8Csniffer =E4=
+=BC=9A=E6=8A=8A=E6=89=80=E6=9C=89=E6=8E=A5=E6=94=B6=E5=88=B0=E7=9A=84=E6=95=
+=B0=E6=8D=AE=E6=94=BE=E5=88=B0 analyser =E5=87=BD=E6=95=B0=E4=B8=AD=E5=A4=
+=84=E7=90=86=EF=BC=8C=E8=80=8C analyser =E5=87=BD=E6=95=B0=E4=BC=9A=E6=A3=
+=80=E6=9F=A5=E6=8D=95=E8=8E=B7=E5=88=B0=E7=9A=84=E6=95=B0=E6=8D=AE=E5=8C=85=
+=EF=BC=8C=E5=B9=B6=E4=B8=94=E7=A1=AE=E5=AE=9A=E5=8C=85=E7=9A=84=E5=A4=A7=E5=
+=B0=8F=E8=B6=85=E8=BF=87 200 =E5=AD=97=E8=8A=82=E3=80=82=E5=9C=A8=E5=AE=9E=
+=E9=99=85=E7=9A=84=E6=B5=8B=E8=AF=95=E4=B8=AD=E6=88=91=E5=8F=91=E7=8E=B0=EF=
+=BC=8C=E5=A6=82=E6=9E=9C NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E4=B8=8D=E5=93=8D=
+=E5=BA=94 MONLIST =E8=AF=B7=E6=B1=82=EF=BC=8C=E5=93=8D=E5=BA=94=E5=8C=85=E7=
+=9A=84=E5=A4=A7=E5=B0=8F=E9=80=9A=E5=B8=B8=E5=9C=A8 60-90 =E5=AD=97=E8=8A=
+=82=EF=BC=8C=E6=88=96=E8=80=85=E4=B8=8D=E5=AD=98=E5=9C=A8=E5=93=8D=E5=BA=94=
+=E5=8C=85=E3=80=82=E5=A6=82=E6=9E=9C NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E5=93=
+=8D=E5=BA=94 MONLIST =E8=AF=B7=E6=B1=82=EF=BC=8C=E5=93=8D=E5=BA=94=E5=8C=85=
+=E5=B0=B1=E4=BC=9A=E6=AF=94=E8=BE=83=E5=A4=A7=EF=BC=8C=E4=B8=80=E8=88=AC=E5=
+=8C=85=E5=90=AB=E5=A4=9A=E4=B8=AA=E5=93=8D=E5=BA=94=E5=8C=85=EF=BC=8C=E9=80=
+=9A=E5=B8=B8=E6=AF=8F=E4=B8=AA=E5=8C=85=E4=B8=BA 480 =E5=AD=97=E8=8A=82=E3=
+=80=82=E6=89=80=E4=BB=A5=E5=8F=AA=E8=A6=81=E6=A3=80=E6=9F=A5=E5=88=B0=E6=89=
+=80=E6=8E=A5=E6=94=B6=E7=9A=84=E5=93=8D=E5=BA=94=E5=8C=85=E6=98=AF=E5=A4=A7=
+=E4=BA=8E 200 =E5=AD=97=E8=8A=82=E5=B0=B1=E8=A1=A8=E7=A4=BA=E8=AF=A5 NTP =
+=E6=9C=8D=E5=8A=A1=E5=99=A8=E6=94=AF=E6=8C=81 MONLIST =E8=AF=B7=E6=B1=82=E3=
+=80=82=E6=9C=80=E5=90=8E=E6=88=91=E4=BB=AC=E4=BC=9A=E6=8A=8A=E5=93=8D=E5=BA=
+=94=E5=8C=85=E5=A4=A7=E7=BA=A6 200 =E5=AD=97=E8=8A=82=E7=9A=84 IP =E5=9C=B0=
+=E5=9D=80=E5=86=99=E5=85=A5=E5=88=B0 outputFile=E3=80=82</p>
+
+<pre><code>    if len(packet) &gt; 200:
+        if packet.haslayer(IP):
+            outputFile.write(packet.getlayer(IP).src + '\n')
+</code></pre>
+
+<p>=E9=80=9A=E5=B8=B8=E5=A6=82=E6=9E=9C NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E6=
+=94=AF=E6=8C=81 MONLIST =E8=AF=B7=E6=B1=82=EF=BC=8C=E9=82=A3=E4=B9=88=E5=AE=
+=83=E5=B0=86=E4=BC=9A=E8=BF=94=E5=9B=9E=E5=A4=9A=E4=B8=AA=E6=95=B0=E6=8D=AE=
+=E5=8C=85=E7=94=A8=E4=BA=8E=E5=8C=85=E5=90=AB=E4=BD=BF=E7=94=A8 NTP =E6=9C=
+=8D=E5=8A=A1=E7=9A=84 IP =E5=9C=B0=E5=9D=80=E3=80=82=E5=9B=A0=E4=B8=BA snif=
+fer =E4=BC=9A=E6=8D=95=E6=8D=89=E6=89=80=E6=9C=89=E7=AC=A6=E5=90=88=E6=9D=
+=A1=E4=BB=B6=E7=9A=84=E6=95=B0=E6=8D=AE=E5=8C=85=EF=BC=8C=E6=89=80=E4=BB=A5=
+ outputFile =E6=96=87=E4=BB=B6=E4=B8=AD=E5=B0=86=E4=BC=9A=E6=9C=89=E8=AE=B8=
+=E5=A4=9A=E9=87=8D=E5=A4=8D=E7=9A=84=E6=95=B0=E6=8D=AE=E3=80=82=E6=88=91=E9=
+=80=9A=E8=BF=87 sort =E5=92=8C uniq =E5=91=BD=E4=BB=A4=E6=9D=A5=E5=AF=B9 ou=
+tputFile =E6=96=87=E4=BB=B6=E8=BF=9B=E8=A1=8C=E5=8E=BB=E9=87=8D=E3=80=82</p=
+>
+
+<pre><code>sort monlistServers.txt | uniq
+</code></pre>
+
+<p>=E8=BF=99=E4=B8=AA=E7=BB=93=E6=9E=9C=E6=96=87=E4=BB=B6=E4=B8=AD=E5=8C=85=
+=E5=90=AB=E6=89=80=E6=9C=89=E6=94=AF=E6=8C=81 MONLIST =E5=91=BD=E4=BB=A4=E7=
+=9A=84 NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E3=80=82</p>
+
+<p>=E5=AE=8C=E6=95=B4=E7=9A=84 python =E8=84=9A=E6=9C=AC=E5=A6=82=E4=B8=8B=
+=EF=BC=9A</p>
+
+<pre><code>from scapy.all import *
+import thread
+#Raw packet data used to request Monlist from NTP server
+rawData =3D "\x17\x00\x03\x2a" + "\x00" * 61
+#File containing all IP addresses with NTP port open.
+logfile =3D open('output.txt', 'r')
+#Output file used to store all monlist enabled servers
+outputFile =3D open('monlistServers.txt', 'a')
+def sniffer():
+    #Sniffs incomming network traffic on UDP port 48769, all packets meetin=
+g thease requirements run through the analyser function.
+    sniffedPacket =3D sniff(filter=3D"udp port 48769 and dst net 99.99.99.9=
+9", store=3D0, prn=3Danalyser)
+
+def analyser(packet):
+    #If the server responds to the GET_MONLIST command.
+    if len(packet) &gt; 200:
+        if packet.haslayer(IP):
+            print packet.getlayer(IP).src
+            #Outputs the IP address to a log file.
+            outputFile.write(packet.getlayer(IP).src + '\n')
+
+thread.start_new_thread(sniffer, ())
+
+for address in logfile:
+    #Creates a UDP packet with NTP port 123 as the destination and the MON_=
+GETLIST payload.
+    send(IP(dst=3Daddress)/UDP(sport=3D48769, dport=3D123)/Raw(load=3DrawDa=
+ta))
+print 'End'
+</code></pre>
+
+<h2>0x02 =E6=9C=80=E5=90=8E</h2>
+
+<hr>
+
+<p>=E6=AD=A3=E5=A6=82=E6=88=91=E5=89=8D=E9=9D=A2=E6=89=80=E6=8F=90=E5=88=B0=
+=E7=9A=84=EF=BC=8C=E6=88=91=E7=9A=84=E5=B8=A6=E5=AE=BD=E5=AE=9E=E5=9C=A8=E6=
+=98=AF=E5=A4=AA=E5=B0=8F=E4=BA=86=EF=BC=8C=E6=89=80=E4=BB=A5=E6=88=91=E5=8F=
+=AA=E8=83=BD=E5=A4=9F=E9=80=89=E6=8B=A9=E4=B8=80=E4=B8=AA IP =E6=AE=B5=EF=
+=BC=9A101.0.0.0-120.0.0.0=E3=80=82=E5=A6=82=E6=9E=9C=E6=88=91=E7=9A=84=E6=
+=95=B0=E5=AD=A6=E4=B8=8D=E6=98=AF=E4=BD=93=E8=82=B2=E8=80=81=E5=B8=88=E6=95=
+=99=E7=9A=84=E8=AF=9D=EF=BC=8C=E9=82=A3=E4=B9=88=E6=88=91=E5=BA=94=E8=AF=A5=
+=E4=B8=8D=E4=BC=9A=E7=AE=97=E9=94=99=EF=BC=8C=E8=BF=99=E4=B8=AA IP =E6=AE=
+=B5=E5=86=85=E5=8C=85=E5=90=AB 318,767,104 =E4=B8=AA IP =E5=9C=B0=E5=9D=80=
+=EF=BC=8819<em>256</em>256=EF=BC=89=E3=80=82</p>
+
+<p>masscan =E5=8F=91=E7=8E=B0 253,994 =E4=B8=AA=E8=AE=BE=E5=A4=87=E5=BC=80=
+=E6=94=BE=E4=BA=86 UDP =E7=9A=84 123 =E7=AB=AF=E5=8F=A3=EF=BC=8C=E5=8D=A0=
+=E4=BA=86=E6=89=AB=E6=8F=8F IP =E7=9A=84 0.08%=E3=80=82</p>
+
+<p>=E5=9C=A8 253,994 =E4=B8=AA=E8=AE=BE=E5=A4=87=E4=B8=AD=EF=BC=8C=E6=94=AF=
+=E6=8C=81 MONLIST =E5=91=BD=E4=BB=A4=E7=9A=84=E8=AE=BE=E5=A4=87=E6=9C=89 70=
+05 =E4=B8=AA=EF=BC=8C=E5=8D=A0=E6=AF=94=E4=B8=BA 2.76%=E3=80=82</p>
+
+<p>=E5=A6=82=E6=9E=9C=E6=8C=89=E7=85=A7=E8=BF=99=E4=B8=AA=E6=AF=94=E4=BE=8B=
+=E8=BF=9B=E8=A1=8C=E6=8D=A2=E7=AE=97=E7=9A=84=E8=AF=9D=EF=BC=8C=E9=82=A3=E4=
+=B8=AA=E6=95=B4=E4=B8=AA=E4=BA=92=E8=81=94=E7=BD=91=E4=B8=8A=E5=B0=86=E6=9C=
+=89 91,000 =E5=8F=B0=E5=BC=80=E5=90=AF MONLIST =E5=8A=9F=E8=83=BD=E7=9A=84 =
+NTP =E6=9C=8D=E5=8A=A1=E5=99=A8=E3=80=82</p>
+
+<p>over!</p>      <p></p>
+   =20
+		=09
+	=09
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                              </body></html>
+------MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b58f027b-c90f-4694-be58-7e0a40004878@mhtml.blink
+
+@charset "utf-8";
+
+body { width: 90%; max-width: 960px; display: block; margin: 0px auto; }
+
+img { max-width: 900px; }
+------MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-ba7c2fb8-57c3-4505-8eb9-4a6489a24bb5@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///E:/git/ddos-dos-tools/ntp-desc_files/stylesheet.css
+
+@charset "utf-8";
+
+body { margin: 0px; padding: 0px; background: url("../images/bkg.png") 0px =
+0px rgb(21, 21, 21); color: rgb(234, 234, 234); line-height: 1.5; font-fami=
+ly: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospa=
+ce; }
+
+.container { width: 90%; max-width: 600px; margin: 0px auto; }
+
+section { display: block; margin: 0px 0px 20px; }
+
+h1, h2, h3, h4, h5, h6 { margin: 0px 0px 20px; }
+
+li { line-height: 1.4; }
+
+header { background: rgba(0, 0, 0, 0.1); width: 100%; border-bottom: 1px da=
+shed rgb(181, 232, 83); padding: 20px 0px; margin: 0px 0px 40px; }
+
+header h1 { font-size: 30px; line-height: 1.5; margin: 0px 0px 0px -40px; f=
+ont-weight: bold; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida =
+Console", Terminal, monospace; color: rgb(181, 232, 83); text-shadow: rgba(=
+0, 0, 0, 0.1) 0px 1px 1px, rgba(181, 232, 83, 0.1) 0px 0px 5px, rgba(181, 2=
+32, 83, 0.1) 0px 0px 10px; letter-spacing: -1px; -webkit-font-smoothing: an=
+tialiased; }
+
+header h1::before { content: "./ "; font-size: 24px; }
+
+header h2 { font-size: 18px; font-weight: 300; color: rgb(102, 102, 102); }
+
+#downloads .btn { display: inline-block; text-align: center; margin: 0px; }
+
+#main_content { width: 100%; -webkit-font-smoothing: antialiased; }
+
+section img { max-width: 100%; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: normal; font-family: Monaco, "Bitstre=
+am Vera Sans Mono", "Lucida Console", Terminal, monospace; color: rgb(181, =
+232, 83); letter-spacing: -0.03em; text-shadow: rgba(0, 0, 0, 0.1) 0px 1px =
+1px, rgba(181, 232, 83, 0.1) 0px 0px 5px, rgba(181, 232, 83, 0.1) 0px 0px 1=
+0px; }
+
+#main_content h1 { font-size: 30px; }
+
+#main_content h2 { font-size: 24px; }
+
+#main_content h3 { font-size: 18px; }
+
+#main_content h4 { font-size: 14px; }
+
+#main_content h5 { font-size: 12px; text-transform: uppercase; margin: 0px =
+0px 5px; }
+
+#main_content h6 { font-size: 12px; text-transform: uppercase; color: rgb(1=
+53, 153, 153); margin: 0px 0px 5px; }
+
+dt { font-style: italic; font-weight: bold; }
+
+ul li { list-style: none; }
+
+ul li::before { content: ">>"; font-family: Monaco, "Bitstream Vera Sans Mo=
+no", "Lucida Console", Terminal, monospace; font-size: 13px; color: rgb(181=
+, 232, 83); margin-left: -37px; margin-right: 21px; line-height: 16px; }
+
+blockquote { color: rgb(170, 170, 170); padding-left: 10px; border-left: 1p=
+x dotted rgb(102, 102, 102); }
+
+pre { background: rgba(0, 0, 0, 0.9); border: 1px solid rgba(255, 255, 255,=
+ 0.15); padding: 10px; font-size: 14px; color: rgb(181, 232, 83); border-ra=
+dius: 2px; overflow: auto hidden; }
+
+table { width: 100%; margin: 0px 0px 20px; }
+
+th { text-align: left; border-bottom: 1px dashed rgb(181, 232, 83); padding=
+: 5px 10px; }
+
+td { padding: 5px 10px; }
+
+hr { height: 0px; border-width: 0px 0px 1px; border-top-style: initial; bor=
+der-right-style: initial; border-left-style: initial; border-top-color: ini=
+tial; border-right-color: initial; border-left-color: initial; border-image=
+: initial; border-bottom-style: dashed; border-bottom-color: rgb(181, 232, =
+83); color: rgb(181, 232, 83); }
+
+.btn { display: inline-block; background: -webkit-linear-gradient(top, rgba=
+(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rg=
+ba(0, 0, 0, 0.3)); padding: 8px 18px; border-radius: 50px; border-width: 2p=
+x; border-style: solid; border-color: rgb(0, 0, 0) rgba(0, 0, 0, 0.7) rgba(=
+0, 0, 0, 0.7); border-image: initial; color: rgba(255, 255, 255, 0.8); font=
+-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 13px; =
+text-decoration: none; text-shadow: rgba(0, 0, 0, 0.75) 0px -1px 0px; box-s=
+hadow: rgba(255, 255, 255, 0.05) 0px 1px 0px inset; }
+
+.btn:hover { background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6)=
+, rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8))=
+; }
+
+.btn .icon { display: inline-block; width: 16px; height: 16px; margin: 1px =
+8px 0px 0px; float: left; }
+
+.btn-github .icon { opacity: 0.6; background: url("../images/blacktocat.png=
+") 0px 0px no-repeat; }
+
+a { color: rgb(99, 192, 245); text-shadow: rgba(104, 182, 255, 0.5) 0px 0px=
+ 5px; }
+
+.cf::before, .cf::after { content: ""; display: table; }
+
+.cf::after { clear: both; }
+
+.cf { zoom: 1; }
+------MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///E:/git/ddos-dos-tools/ntp-desc_files/github-dark.css
+
+@charset "utf-8";
+
+.pl-c { color: rgb(150, 152, 150); }
+
+.pl-c1, .pl-s .pl-v { color: rgb(0, 153, 205); }
+
+.pl-e, .pl-en { color: rgb(151, 116, 203); }
+
+.pl-smi, .pl-s .pl-s1 { color: rgb(221, 221, 221); }
+
+.pl-ent { color: rgb(123, 204, 114); }
+
+.pl-k { color: rgb(204, 35, 114); }
+
+.pl-s, .pl-pds, .pl-s .pl-pse .pl-s1, .pl-sr, .pl-sr .pl-cce, .pl-sr .pl-sr=
+e, .pl-sr .pl-sra { color: rgb(60, 102, 226); }
+
+.pl-v { color: rgb(251, 135, 100); }
+
+.pl-id { color: rgb(230, 53, 37); }
+
+.pl-ii { color: rgb(248, 248, 248); background-color: rgb(230, 53, 37); }
+
+.pl-sr .pl-cce { font-weight: bold; color: rgb(123, 204, 114); }
+
+.pl-ml { color: rgb(194, 107, 43); }
+
+.pl-mh, .pl-mh .pl-en, .pl-ms { font-weight: bold; color: rgb(38, 78, 197);=
+ }
+
+.pl-mq { color: rgb(0, 172, 172); }
+
+.pl-mi { font-style: italic; color: rgb(221, 221, 221); }
+
+.pl-mb { font-weight: bold; color: rgb(221, 221, 221); }
+
+.pl-md { color: rgb(189, 44, 0); background-color: rgb(255, 236, 236); }
+
+.pl-mi1 { color: rgb(85, 165, 50); background-color: rgb(234, 255, 234); }
+
+.pl-mdr { font-weight: bold; color: rgb(151, 116, 203); }
+
+.pl-mo { color: rgb(38, 78, 197); }
+------MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///E:/git/ddos-dos-tools/ntp-desc_files/print.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--RUmIXj1PZtp2m0rHJx07OYtMjJV30EszvjKz5dq064------
